@@ -2,7 +2,7 @@
 
 
 ## Folder Description
-- Documentation: File contains Documentation of all methods and difficulties
+- Documentation ==> File contains Documentation of all methods and difficulties
 + EAST - DL ==> Deep Learning Based Notebook 
 - Easy - OCR ==>  Easy_OCR based text extraction Notebook
 - NID- Object Detection ==> NID card Detection based Notebook
@@ -35,4 +35,4 @@ OpenCV’s EAST text detector is a deep learning model, based on a novel archite
 
 
 ## Heuristic Algorithm
-Uasing sliding window algorithm object detection and text identification
+Using sliding window approach for object detection and text identification
