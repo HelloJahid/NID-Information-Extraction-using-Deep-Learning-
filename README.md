@@ -2,16 +2,16 @@
 
 Text detection from image is a very challenging task due to lighting conditions, image quality,  and non-planar objects etc. Here are some difficulties that have faced
 
-+ ### Viewing angles: 
++ #### Viewing angles: 
     + 1st I have faced a Viewing angle problem where text can naturally have  viewing angles that are not parallel to the text. So it makes the text harder to recognize. 
 
-+ ### Blurring:
++ #### Blurring:
     + Some images looks blur problem. This also create problem in OCR based project. 
 
-+ ### Lighting conditions: 
++ #### Lighting conditions: 
     + The saturation effect of the the entire was not same. So this lighting  condition also created problem.  
 
-+ ### Non-paper objects:
++ #### Non-paper objects:
     + It causes main problem in my work. The image contains many Non-paper  objects such as watermark, logos, signs, etc. and these causes reflective problem. some letter  has overlapped with this reflective. 
 
 `N.B: When I was testing my model with not reflective image that time my model works very  well. `
